@@ -1,5 +1,5 @@
 ---
-title: "Student Aided Magnetic Anomaly Mapping"
+title: "Magnetic <br>AnomalyMapping<br>by Studnets"
 author: Evelyn J. Boettcher
 date: July 27th, 2023
 subtitle: "Student Collected Data For Safer Navigation"
@@ -43,6 +43,12 @@ fig-cap-location: margin
 
 <br>
 <br>
+
+## Why are <br> Magnetic anomaly Map needed
+
+<br>
+<br>
+
 ### For the DoD
 
 Navigation via magnetic maps solves one of the four critical capability gaps identified by Air Mobility Command (AF.mil 2023)
@@ -80,8 +86,12 @@ Navigation via magnetic maps solves one of the four critical capability gaps ide
 ::: {.column width="54%"}
 GPS spoofing has the real risk of keeping ships at sea longer than necessary, or even causing ships to collide.
 
-<br> These same concerns are amplified in the aviation industry.
+<br> 
+These same concerns are amplified in the aviation industry.
+
 <br>
+<br>
+
 In addition, planes to worry about  being tricked into flying into dangerous no fly zones.
 :::
 
@@ -101,7 +111,7 @@ In addition, planes to worry about  being tricked into flying into dangerous no 
 ### Can Validate GPS Signals
 <br>
 
-### Can be used for Non GPS Naivigation
+### Can be used for Non GPS Navigation
 
 ---
 
@@ -178,6 +188,8 @@ The Earth's Magnetic Field has variations do to field locked in it's crust.
 :::
 
 ## Why make another map
+
+![](img/editted_usa_only.jpg){width="75%"} @usamagmap
 
 ## Why make another map
 
@@ -332,9 +344,10 @@ Lastly, students are guided by college student mentors in a STEM field so that t
 
 :::{.columns}
 ::::{.column width=70%}
-Looking for Ohio schools teachers to partner with to:
+* Looking for partners to:
+  * Evaluate kits 2024-2025
 
-* Evaluate kits 2024-2025
+* Looking for funding.
 
 <br>
 

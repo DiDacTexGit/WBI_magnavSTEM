@@ -343,17 +343,20 @@ $headings-font-weight:  500 !default;
 
 .reveal h1.title{
 text-align: center !important;
-margin-left: -9rem !important;
-padding-top: 6rem;
+margin-left: -4rem !important;
+padding-top: -6rem;
+padding-left: 1rem;
+line-height: 1.2;
 color:  #039ac6ff;
+text-shadow: 0px 0px 10px rgba(10, 0, 0, 0.2);
 box-sizing: content-box;
-width: 60% !important;
+width: 70% !important;
 }
 .reveal p.author{
   text-align: center !important;
   font-size: 1.5em;
   color: rgb(235, 158, 107);
-  text-shadow: 10px 10px 10px rgba(10, 0, 0, 0.2);
+  text-shadow: 10px 10px 10px rgba(10, 0, 0, 0.816);
   margin-left: 41rem !important;
   padding-top: 0em;
   width: 60% !important;
@@ -363,11 +366,11 @@ width: 60% !important;
   text-align: center !important;
   font-size: 2.2em;
   color:  #7ff624;
-  margin-left: -11rem !important;
+  margin-left: -5rem !important;
+  padding-left: 1rem;
   box-sizing: content-box;
   width: 65% !important;
-  
-  text-shadow: 10px 10px 10px rgba(10, 0, 0, 0.2);
+  text-shadow: 5px 5x 10px rgba(217, 245, 7, 0.894);
  }
 
  .reveal p.date{
