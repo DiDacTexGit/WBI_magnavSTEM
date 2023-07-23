@@ -1,5 +1,5 @@
 project:
-  title: "DO STEM"
+  title: "WBI STEM"
   output-dir: ../docs
   type: website
 
@@ -13,7 +13,7 @@ format:
     theme: [default, evelyn.scss]
     css: evelyn.css
     logo: 'img/DDT_Logo_wo_Bk.png'
-    footer: "STEM MAG MAPPING"
+    footer: "Magnetic Anomaly Mapping: STEM Activity"
     scrollable: true
     transition: slide
     transition-speed: fast
